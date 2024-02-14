@@ -164,8 +164,8 @@ html {
         }
         header img:first-child {
             position: absolute;
-            width: 320px;
-            height: 200px;
+            width: 500px;
+            height: 300px;
             aspect-ratio: 1 / 1;
             }
         header .header_background {
@@ -452,7 +452,7 @@ html {
             width: 100%;
             align-items: center;
             padding-top: 50px;
-            justify-content: space-around;
+            justify-content: center;
             z-index: 2;
             }
         .dresscode .text p:first-child {
@@ -470,12 +470,12 @@ html {
             text-align: center;
             font-size: 1.3rem;
             font-weight: 600;
-            margin-top: -50px;
+            margin-top: -100px;
             padding-left: 100px;
             z-index: 2;
         }
         #dresscode #gala {
-            width: 200px;
+            width: 500px;
             height: fit-content;
             z-index: 2;
             }
@@ -495,7 +495,6 @@ html {
             #Evitar {
                 color: white;
                 font-weight: bold;
-
             }
         /* #dresscode .background {
             display: flex;
